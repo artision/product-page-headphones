@@ -11,7 +11,7 @@
 }
 
 body {
-  font-family: 'Catamaran', sans-serif;
+  font-family: "Catamaran", sans-serif;
   line-height: 1.6;
   color: #333;
   font-size: 1.1rem;
@@ -38,10 +38,10 @@ img {
 }
 
 .container {
-  max-width: 1100px;
+  max-width: 1000px;
   margin: auto;
   overflow: hidden;
-  padding: 0 2rem;
+  padding: 1rem 2rem 0 2rem;
 }
 
 .navbar {
@@ -71,7 +71,7 @@ img {
 }
 
 .navbar .nav a:hover {
-  color: #555;
+  color: #111;
 }
 
 /* SECTION-A */
@@ -93,15 +93,15 @@ img {
 }
 
 .section-a p {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 /* SECTION-A ENDS */
 
 /* SECTION-B */
 .section-b {
   position: relative;
-  background: url('../img/section-b.jpg') no-repeat bottom center/cover;
-  height: 600px;
+  background: url("../img/section-b.jpg") no-repeat bottom center/cover;
+  height: 638px;
 }
 
 .section-b-inner {
