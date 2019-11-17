@@ -187,7 +187,7 @@ img {
 
 .section-footer a > i {
   color: #555;
-  margin-right: 0.5rem;
+  margin-right: 1.5rem;
 }
 /* FOOTER ENDS */
 .email-form {
@@ -236,6 +236,7 @@ img {
 /* EMAIL FORM */
 
 /* UTILITIES */
+/* section a button "read more" */
 .btn {
   display: inline-block;
   background: var(--primary-color);
@@ -251,6 +252,7 @@ img {
   background: var(--secondary-color);
 }
 
+/* section b background image */
 .overlay {
   position: absolute;
   top: 0;
