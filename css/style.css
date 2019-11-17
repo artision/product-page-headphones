@@ -190,6 +190,8 @@ img {
   margin-right: 1.5rem;
 }
 /* FOOTER ENDS */
+
+/* EMAIL FORM */
 .email-form {
   width: 100%;
   display: inline-block;
@@ -233,7 +235,7 @@ img {
   cursor: pointer;
   border-radius: 0 20px 20px 0;
 }
-/* EMAIL FORM */
+/* EMAIL FORM ENDS */
 
 /* UTILITIES */
 /* section a button "read more" */
